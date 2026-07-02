@@ -1,4 +1,8 @@
-# interactive-cv
+<p align="center">
+  <img src="assets/icon.png" width="120" height="120" alt="interactive-cv logo" />
+</p>
+
+<h1 align="center">interactive-cv</h1>
 
 **Open-source-шаблон персонального интерактивного сайта-резюме с двумя AI-функциями:**
 1. **AI-ассистент для рекрутёра** — отвечает на вопросы по фактам из CV в реальном времени (Server-Sent Events) и с защитой от галлюцинаций.
