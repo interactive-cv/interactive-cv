@@ -51,8 +51,7 @@
 | [cv-backend](https://github.com/interactive-cv/cv-backend) | Python, FastAPI, PostgreSQL | REST API, AI-промпты (чат + генерация + freelance + contest + правка CV), PDF-экспорт, трекинг, сессии, аналитика |
 | [cv-frontend](https://github.com/interactive-cv/cv-frontend) | Next.js 16, TypeScript, Tailwind | SSR-лендинг, граф, чат-виджет с историей, админ-панель (отклики/фриланс/конкурсы/настройки/чаты), OG-превью |
 
-> **Для контрибьюторов:** правила работы с git (ветки, PR, коммиты) — [GIT_WORKFLOW.md](https://github.com/interactive-cv/cv-backend/blob/master/GIT_WORKFLOW.md).
-> Руководство по разворачиванию — [QUICKSTART.md](https://github.com/interactive-cv/cv-backend/blob/master/QUICKSTART.md).
+> **Руководство по разворачиванию** — [QUICKSTART.md](https://github.com/interactive-cv/cv-backend/blob/master/QUICKSTART.md).
 
 ## Технологические решения
 
